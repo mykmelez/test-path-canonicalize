@@ -1,0 +1,7 @@
+[package]
+name = "test-path-canonicalize"
+version = "0.1.0"
+authors = ["Myk Melez <myk@mykzilla.org>"]
+edition = "2018"
+
+[dependencies]
