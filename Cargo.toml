@@ -5,3 +5,4 @@ authors = ["Myk Melez <myk@mykzilla.org>"]
 edition = "2018"
 
 [dependencies]
+jemallocator = "0.1.9"
